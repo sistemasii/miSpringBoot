@@ -1,0 +1,2 @@
+# miSpringBoot
+Spring Boot es una utilidad para configurar aplicaciones rápidamente, ofreciendo una configuración inmediata para construir aplicaciones impulsadas por Spring. Como ya se sabe, Spring integra una amplia gama de módulos diferentes en su arquitectura, como Spring-Core, Spring-Data, Spring-Web (que incluye Spring MVC, por cierto) y así sucesivamente. Con esta herramienta podemos decirle a Spring cuántos de ellos debe usar y obtendrá una configuración rápida para ellos.
